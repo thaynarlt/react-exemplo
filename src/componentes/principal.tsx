@@ -5,7 +5,14 @@ export const Principal = () => {
                 <img src="src/assets-chuck-norris-main/angry.jpg"/>
             </div>
 
-            <button>
+            <div className="frase">
+                frase
+            </div>
+
+            <button
+
+            onClick={}
+            >
                 Click here for a not funny joke
             </button>
         </main>

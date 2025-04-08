@@ -13,14 +13,24 @@
   gap: 20px;
 }
 
-.main button {
-  padding: 10px;
-  background-color: wheat;
-  border: 3px solid white;
-  color: red;
-  font-weight: bold;
 
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: wheat;
+  color: red;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
 }
+
+.joke {
+  margin-top: 20px;
+  font-style: italic;
+  max-width: 500px;
+}
+
 
 .img-container {
   display: flex;
