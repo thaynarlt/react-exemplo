@@ -1,0 +1,40 @@
+.main img {
+  width: 50%;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  margin: 0 auto;
+  background-color: red;
+  padding: 20px;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.main button {
+  padding: 10px;
+  background-color: wheat;
+  border: 3px solid white;
+  color: red;
+  font-weight: bold;
+
+}
+
+.img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.header img {
+  width: 15%;  
+}
